@@ -1,0 +1,9 @@
+{
+  "name": "test-protobuf",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-protobufjs": "^1.2.2"
+  }
+}
