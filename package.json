@@ -1,9 +1,9 @@
 {
   "name": "test-protobuf",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.0",
+    "gulp-pbjs": "git+https://github.com/keepkey/gulp-pbjs.git",
     "gulp-protobufjs": "^1.2.2"
   }
 }
